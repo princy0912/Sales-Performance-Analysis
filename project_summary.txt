@@ -1,0 +1,31 @@
+SALES PERFORMANCE ANALYSIS PROJECT
+
+Objective:
+To analyze Superstore sales data and generate business insights using Python, Pandas, NumPy, and Matplotlib.
+
+Dataset:
+SampleSuperstore.csv (9994 rows, 13 columns)
+
+Tools Used:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+Key Analysis:
+1. Category-wise sales and profit
+2. Region-wise sales and profit
+3. Sub-category analysis
+4. Discount vs profit analysis
+5. Data cleaning (duplicates removed)
+
+Outputs Generated:
+- cleaned_sales_data.csv
+- category_analysis_report.csv
+- region_analysis_report.csv
+- category_sales.png
+- region_profit.png
+- discount_vs_profit.png
+
+Conclusion:
+This project provides useful insights about sales performance and profit impact due to discounts.
